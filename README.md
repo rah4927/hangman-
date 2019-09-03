@@ -1,3 +1,2 @@
-bottleneck is iterating and regexing 
-plan: regex the list once, then search 
-CharFrequency too 
+Pet project that implements different heuristics for hangman. Goal is to eventually train a model that plays 
+hangman without a dictionary. 
